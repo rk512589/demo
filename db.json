@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "assignments": [
     { "id": 1, "route": "23450", "employee": "7", "Date": "2020-07-13" },
     { "id": 2, "route": "32756", "employee": "9", "Date": "2020-07-13"  },
     { "id": 3, "route": "32756", "employee": "9", "Date": "2020-07-12"  },
